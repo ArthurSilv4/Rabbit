@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/observability/">
+    <File Path="docker-compose.yml" />
+    <File Path="prometheus.yml" />
+  </Folder>
+  <Project Path="AuditService/AuditService.csproj" Id="9d8ce7ae-d604-4927-9cc3-1366bac619cb" />
+  <Project Path="DlqMonitor/DlqMonitor.csproj" Id="cf0d5714-4485-4c6a-a382-e5845807134c" />
+  <Project Path="Gateway/Gateway.csproj" />
+  <Project Path="PanelService/PanelService.csproj" />
+  <Project Path="ValidationService/ValidationService.csproj" />
+</Solution>
